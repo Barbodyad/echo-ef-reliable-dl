@@ -1,4 +1,4 @@
-# Quality-Conditioned Deep Learning with Conformal Uncertainty Calibration for Echocardiography
+# Conformal Uncertainty for Cardiac Function Estimation from Echocardiography
 
 Code accompanying the manuscript *"Quality-Conditioned, Semi-Supervised Deep Learning with Conformal Uncertainty Calibration for Reliable Ejection Fraction Estimation and Heart-Failure Classification from Echocardiography"* (submitted to *Biomedical Signal Processing and Control*).
 
