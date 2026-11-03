@@ -1,6 +1,6 @@
 # Conformal Uncertainty for Cardiac Function Estimation from Echocardiography
 
-Code accompanying the manuscript *"Quality-Conditioned, Semi-Supervised Deep Learning with Conformal Uncertainty Calibration for Reliable Ejection Fraction Estimation and Heart-Failure Classification from Echocardiography"* (submitted to *Biomedical Signal Processing and Control*).
+Code accompanying the manuscript *"Conformal Uncertainty for Cardiac Function Estimation from Echocardiography"* (under review at *Computer Methods and Programs in Biomedicine*).
 
 The repository provides the full experimental pipeline as a sequence of Jupyter notebooks, designed to run end-to-end on **free-tier Google Colab and Google Drive**. All reported quantitative results are given in the manuscript; this repository contains the code needed to reproduce them.
 
