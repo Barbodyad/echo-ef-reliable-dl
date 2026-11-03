@@ -84,9 +84,8 @@ All notebooks run on free-tier Colab with a few GPU-hours in total; hyperparamet
 ## Citation
 
 ```
-Yadali Jamalouei, B. et al. Quality-Conditioned, Semi-Supervised Deep Learning with Conformal Uncertainty
-Calibration for Reliable Ejection Fraction Estimation and Heart-Failure Classification from
-Echocardiography. Biomedical Signal Processing and Control (under review).
+    Yadali Jamalouei, B., Abri, R. Conformal Uncertainty for Cardiac Function Estimation
+    from Echocardiography. Computer Methods and Programs in Biomedicine (under review).
 ```
 
 ## License
